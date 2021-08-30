@@ -4,7 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-        "author": "Asa",
+        "author": "Jane Doe",
 	"scripts": {
 		"start": "node server.js"
 	},
