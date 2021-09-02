@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Asa",
 	"description": "description for the project",
+	"keywords": ["learning"],
 	"scripts": {
 		"start": "node server.js"
 	},
