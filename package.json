@@ -9,6 +9,9 @@
 	"keywords": ["learning", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
+	"dependicies": {
+		"moment": "2.14.0",
+	}
 	"scripts": {
 		"start": "node server.js"
 	},
