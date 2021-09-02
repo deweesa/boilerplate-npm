@@ -8,6 +8,7 @@
 	"description": "description for the project",
 	"keywords": ["learning", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"scripts": {
 		"start": "node server.js"
 	},
