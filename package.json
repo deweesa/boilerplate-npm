@@ -6,7 +6,7 @@
 	"main": "server.js",
 	"author": "Asa",
 	"description": "description for the project",
-	"keywords": ["learning"],
+	"keywords": ["learning", "freecodecamp"],
 	"scripts": {
 		"start": "node server.js"
 	},
