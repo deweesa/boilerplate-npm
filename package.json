@@ -9,7 +9,7 @@
 	"keywords": ["learning", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
-	"dependencies ": {
+	"dependencies": {
 		"moment": "2.14.0"
 	},
 	"scripts": {
