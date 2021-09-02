@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Asa",
+	"description": "description for the project",
 	"scripts": {
 		"start": "node server.js"
 	},
